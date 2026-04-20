@@ -21,4 +21,4 @@ This is a beginner Python program that takes user input (name, age, hobby) and d
 - Using f-strings
 
 ## 📸 Screenshot
-(![Program Output](screenshot.png))
+![Program Output](screenshot.png)
